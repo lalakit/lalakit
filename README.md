@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lalakit
 - 👀 I’m interested in 3d modeling and chemical engineering 
-- 🌱 I’m currently learning SQL, Blender, c#
+- 🌱 I’m currently learning SQL, Blender, c# and more. I wanna become a developper in my field 
 - 📫 How to reach me on LinkedIn (Laetitia Kitissou)
 
 <!---
